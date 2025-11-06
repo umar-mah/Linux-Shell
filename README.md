@@ -1,9 +1,8 @@
-# Simple Linux Shell ('temp_shell.c')
+# Linux Shell ('temp_shell.c')
 
 ## Project 01  
 - Author: Muhammad Umar 
-- Email: mumar2@umbc.edu 
-- Student ID: NZ53290 
+- Email: umarasif.memon@gmail.com
 
 ## Description  
 This project implements a simple Linux shell capable of executing basic Linux commands. It supports command execution, a history feature, and reading from the `/proc` filesystem.
